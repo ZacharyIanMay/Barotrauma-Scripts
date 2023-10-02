@@ -1,0 +1,1 @@
+DIR "C:\Users\Backup\AppData\Local\Daedalic Entertainment GmbH\Barotrauma\WorkshopMods\Installed" >> C:\Users\Backup\Desktop\SteamCMD\Scripts\mods.txt

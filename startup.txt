@@ -1,0 +1,2 @@
+login anonymous
+app_run 1026340
